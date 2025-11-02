@@ -1,4 +1,4 @@
-// src/operacoes.js
+﻿// src/operacoes.js
 
 // === Bloco 1: Operações Básicas (1-10) ===
 function soma(a, b) { return a + b; }
